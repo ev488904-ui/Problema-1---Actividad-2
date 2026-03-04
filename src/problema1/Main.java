@@ -23,6 +23,7 @@ public class Main {
         System.out.println("\n=== LOTES ===");
         for (Lote l : camisa.obtenerLotes()) {
             System.out.println(l);
+
         }
     }
 }

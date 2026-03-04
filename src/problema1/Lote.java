@@ -40,5 +40,6 @@ public class Lote {
                 " | Fecha: " + fechaFabricacion +
                 " | Costo: $" + calcularCostoLote() +
                 " | Recuperación: $" + calcularMontoRecuperacion();
+
     }
 }

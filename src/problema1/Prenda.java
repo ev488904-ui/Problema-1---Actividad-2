@@ -47,5 +47,6 @@ public class Prenda {
                 "\nPrecio Venta: $" + calcularPrecioVenta() +
                 "\nGenero: " + genero +
                 "\nTemporada: " + temporada;
+
     }
 }
